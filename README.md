@@ -7,13 +7,13 @@ This will present the menu:
 
 Weather Database CLI
 1. View all entries
-2. Fetch and store latest weather
+2. Fetch and store latest weather from the south pole
 3. Modify an entry
 4. Delete an entry
 5. Exit
 
 Fetch and Store Weather Data<br>
-Select option 2 to fetch the latest weather data and store it in the database.<br>
+Select option 2 to fetch the latest south pole weather data and store it in the database.<br>
 
 View Stored Entries<br>
 Select option 1 to display all stored weather data.<br>
